@@ -1,0 +1,5 @@
+time="2020-09-13 12:33:27" level=info msg="init  success" line="go-logrus/main.go:7"
+time="2020-09-13 12:33:27" level=error msg="init  error" line="go-logrus/main.go:11"
+time="2020-09-13 12:40:00" level=info msg="init  success" line="go-logrus/main.go:7"
+time="2020-09-13 12:40:00" level=debug msg="init  debug" line="go-logrus/main.go:9"
+time="2020-09-13 12:40:00" level=error msg="init  error" line="go-logrus/main.go:11"
